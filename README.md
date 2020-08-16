@@ -1,4 +1,5 @@
 # Hi there! 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=samirettali&show_icons=true&theme=radical" width="380">
 My name is Samir and I'm a Computer Science student. I love programming, hacking and everything related to computers.
 
 I like to play CTFs and currently I'm making my way into bug bounties.
